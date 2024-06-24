@@ -21,6 +21,6 @@ Use EDA to understand the driving factors (or driver variables) behind loan def
 ## Summary
 
 Following files are available as part of the solution
-	1. RakeshKumarPadhiary.ipynb file for EDA
-	2. RakeshKumarPadhiary.pdf file contains EDA performed and its outcome of the analysis
-	3. README.md file containing the project and problem descriptions
+	- 1. RakeshKumarPadhiary.ipynb file for EDA
+	- 2. RakeshKumarPadhiary.pdf file contains EDA performed and its outcome of the analysis
+	- 3. README.md file containing the project and problem descriptions
